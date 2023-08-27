@@ -1,6 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MeuPrimeiroAppDio</string>
     <string name="teste_de_tradu_o">Teste de tradução</string>
-    <string name="bem_vido">Bem vido</string>
+    <string name="bem_vido">Bem-vindo</string>
     <string name="ol_mundo">Olá mundo!</string>
 </resources>

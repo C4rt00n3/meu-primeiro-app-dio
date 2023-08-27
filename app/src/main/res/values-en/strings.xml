@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyFirstAppDio</string>
+    <string name="teste_de_tradu_o">Translation test</string>
+    <string name="bem_vido">Welcome</string>
+    <string name="ol_mundo">Hello world!</string>
+</resources>
